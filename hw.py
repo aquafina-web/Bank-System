@@ -1,7 +1,7 @@
 
 class BankAccount:
     name = ''
-    __balance = 0
+    __balance = 1000
 
     def __init__(self, name, balance):
         self.name = name
