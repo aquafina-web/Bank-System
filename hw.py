@@ -1,7 +1,7 @@
 
 class BankAccount:
     name = ''
-    __balance = 1,000
+    __balance = 0
 
     def __init__(self, name, balance):
         self.name = name
@@ -23,8 +23,8 @@ class BankAccount:
         return self.__balance
 
 
-name = input("Enter account holder name: ")
-balance = int(input("Enter initial balance: "))
+name = "ABC"
+balance = 2000
 
 b1 = BankAccount(name, balance)
 
