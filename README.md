@@ -12,7 +12,7 @@ This website was made because it connects website developing to a real life appl
 5. Enter the amount you want to withdraw from your acoount.
 6. Done! (Your account name and final balance will display in the output).
 
-From maing this project, i learned how easy and fun it is to make a website on my own, using OOP. 
+From making this project, i learned how easy and fun it is to make a website on my own, using OOP. 
 
 -> Tools used in this project:
 Python (.py)
